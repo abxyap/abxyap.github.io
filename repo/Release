@@ -1,0 +1,9 @@
+Origin: abxyap's Repo 
+Label: abxyap 
+Suite: stable 
+Version: 1.0 
+Codename: abxyap 
+Support:http://cydia.saurik.com/support/* 
+Architectures: iphoneos-arm 
+Components: main 
+Description: Repo
