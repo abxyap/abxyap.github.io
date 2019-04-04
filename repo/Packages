@@ -1,0 +1,15 @@
+Package: com.abxyap.HomeX
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: abxyap<abxyap@163.com>
+Depends: mobilesubstrate, preferenceloader, firmware ( >= 12)
+Filename: debs/com.abxyap.homex_1.0.2.deb
+Size: 81920
+MD5sum: abd440066e5367738eb21961ce3a3273
+SHA1: 99e1baf7d6028a4172cc29d6d55358c71fbaa029
+SHA256: 24328c163fccfb83a3112d0d063f542c5a293a2d566d0fce8342d2e7c9d90f1a
+Section: Tweaks
+Description: 启用X手势和IPAD状态栏  Enable X gestures and IPAD status
+Author: abxyap
+Name: HomeX
+
