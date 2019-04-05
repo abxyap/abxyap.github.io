@@ -1,13 +1,13 @@
 Package: com.abxyap.HomeX
-Version: 1.0.0
+Version: 1.0.2
 Architecture: iphoneos-arm
 Maintainer: abxyap<abxyap@163.com>
-Depends: mobilesubstrate
-Filename: debs/com.abxyap.homex_1.0.0.deb
-Size: 79728
-MD5sum: 2f212f79b818cbc6533d711fa564599a
-SHA1: f5d9d368d9bcadd3e8ed92f7df84cd9fac62354d
-SHA256: 92c502e868e3ff27d3a322ebc38178ef896b2c452576e10433a1010251be3a98
+Depends: mobilesubstrate, preferenceloader, firmware ( >= 12)
+Filename: debs/com.abxyap.homex_1.0.2.deb
+Size: 81968
+MD5sum: aca71a87c4ad9902b7ac8aecaf78ca65
+SHA1: 95e062c09a993eef7bf69a8665263278a59bfe47
+SHA256: 662428999fc9cf228fc116bc290518744712824de6c0641d154a92b2e8b9e478
 Section: Tweaks
 Description: 启用X手势和IPAD状态栏  Enable X gestures and IPAD status
 Author: abxyap
@@ -29,16 +29,17 @@ Author: abxyap
 Name: HomeX
 
 Package: com.abxyap.HomeX
-Version: 1.0.2
+Version: 1.0.0
 Architecture: iphoneos-arm
 Maintainer: abxyap<abxyap@163.com>
-Depends: mobilesubstrate, preferenceloader, firmware ( >= 12)
-Filename: debs/com.abxyap.homex_1.0.2.deb
-Size: 81920
-MD5sum: abd440066e5367738eb21961ce3a3273
-SHA1: 99e1baf7d6028a4172cc29d6d55358c71fbaa029
-SHA256: 24328c163fccfb83a3112d0d063f542c5a293a2d566d0fce8342d2e7c9d90f1a
+Depends: mobilesubstrate
+Filename: debs/com.abxyap.homex_1.0.0.deb
+Size: 79728
+MD5sum: 2f212f79b818cbc6533d711fa564599a
+SHA1: f5d9d368d9bcadd3e8ed92f7df84cd9fac62354d
+SHA256: 92c502e868e3ff27d3a322ebc38178ef896b2c452576e10433a1010251be3a98
 Section: Tweaks
 Description: 启用X手势和IPAD状态栏  Enable X gestures and IPAD status
 Author: abxyap
 Name: HomeX
+
