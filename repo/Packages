@@ -5,9 +5,9 @@ Maintainer: abxyap<abxyap@163.com>
 Depends: mobilesubstrate, preferenceloader, firmware ( >= 12)
 Filename: debs/com.abxyap.homex_1.0.2.deb
 Size: 81952
-MD5sum: 12f8a67d84f224543f49ad3128ac4b03
-SHA1: 3ce18e0ec3b7c3ee27ae0d5f2ee7b1ab50f12a63
-SHA256: d0d315197aeca5cc6312a5f24fc2d2f31f38d70c7dbd693d8081ef4b6db2d7c9
+MD5sum: a23809fb48686b17dab6f10545f9d0bc
+SHA1: f336c7144d6257b847f22f032c02102f2e760c98
+SHA256: cb41839923d733f6bd26879519d44ce322f0b334b48d1fe104696f952324d2ae
 Section: Tweaks
 Description: 启用X手势和IPAD状态栏  Enable X gestures and IPAD status
 Author: abxyap
