@@ -4,10 +4,10 @@ Architecture: iphoneos-arm
 Maintainer: abxyap<abxyap@163.com>
 Depends: mobilesubstrate, preferenceloader, firmware ( >= 12)
 Filename: debs/com.abxyap.homex_2.0.1.deb
-Size: 92160
-MD5sum: fbac5d763105bae0758c9f66788674bd
-SHA1: 28770334cd359290c7de07c00598e96d857ed998
-SHA256: 51ac4161896c3007db732f0072ee0a3130f7fc852125aef0ebb94215fd6e3550
+Size: 91936
+MD5sum: c85b594cf496ece4be31173000d2b7c8
+SHA1: 466713bb1fdc33789de0fe2ae8a9b521649026e3
+SHA256: 69efa09d65e3ff71e326495dfdbca5676f8b3ea21407cf5d28f99db872c49fca
 Section: Tweaks
 Description: 1、启用X手势，2、启用IPAD状态栏，3、长按划动不触发手势（解决微信语音和视频进度条等问题），4、设置左中右手势习惯，5设置打开键盘时禁用X手势，6设置隐藏或显示HOME条，7、修复相机手势BUG，8、设置DOCK圆角，9、锁屏手电和相机。
 Author: abxyap
@@ -74,4 +74,119 @@ Description: 启用X手势和IPAD状态栏  Enable X gestures and IPAD status
 Author: abxyap
 Name: HomeX
 
+
+Package: com.repo.xarold.com.conditionalwifi4
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Xarold <contact@xarold.com>
+Depends: mobilesubstrate
+Filename: debs/com.repo.xarold.com.conditionalwifi4_1.0.0_iphoneos-arm.deb
+Size: 12784
+MD5sum: ce3a62e5283a73f5451fd125d39928f4
+SHA1: 4dc4bc35ca6c05347dd254c5125ce7c9e57e81bc
+SHA256: e89178492e3a5323cd73a5332f6f5c0bf987800ef359586545bb77cbf41f48b3
+Section: Tweaks
+Description: Restrict certain apps from accessing wifi on iOS 11
+Author: ATWiiks
+Depiction: http://repo.xarold.com/depiction.php?id=conditionalwifi4
+Name: ConditionalWiFi4 K
+
+Package: com.repo.xarold.com.conditionalwifi4
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Xarold <contact@xarold.com>
+Depends: mobilesubstrate
+Filename: debs/com.repo.xarold.com.conditionalwifi4_1.0.0_iphoneos-arm.deb
+Size: 12784
+MD5sum: ce3a62e5283a73f5451fd125d39928f4
+SHA1: 4dc4bc35ca6c05347dd254c5125ce7c9e57e81bc
+SHA256: e89178492e3a5323cd73a5332f6f5c0bf987800ef359586545bb77cbf41f48b3
+Section: Tweaks
+Description: Restrict certain apps from accessing wifi on iOS 11
+Author: ATWiiks
+Depiction: http://repo.xarold.com/depiction.php?id=conditionalwifi4
+Name: ConditionalWiFi4 K
+
+
+
+Package: com.repo.xarold.com.conditionalwifi4
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Xarold <contact@xarold.com>
+Depends: mobilesubstrate
+Filename: debs/com.repo.xarold.com.conditionalwifi4_1.0.0_iphoneos-arm.deb
+Size: 12784
+MD5sum: ce3a62e5283a73f5451fd125d39928f4
+SHA1: 4dc4bc35ca6c05347dd254c5125ce7c9e57e81bc
+SHA256: e89178492e3a5323cd73a5332f6f5c0bf987800ef359586545bb77cbf41f48b3
+Section: Tweaks
+Description: Restrict certain apps from accessing wifi on iOS 11
+Author: ATWiiks
+Depiction: http://repo.xarold.com/depiction.php?id=conditionalwifi4
+Name: ConditionalWiFi4 K
+
+
+Package: com.repo.xarold.com.conditionalwifi4
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Xarold <contact@xarold.com>
+Depends: mobilesubstrate
+Filename: debs/com.repo.xarold.com.conditionalwifi4_1.0.0_iphoneos-arm.deb
+Size: 12784
+MD5sum: ce3a62e5283a73f5451fd125d39928f4
+SHA1: 4dc4bc35ca6c05347dd254c5125ce7c9e57e81bc
+SHA256: e89178492e3a5323cd73a5332f6f5c0bf987800ef359586545bb77cbf41f48b3
+Section: Tweaks
+Description: Restrict certain apps from accessing wifi on iOS 11
+Author: ATWiiks
+Depiction: http://repo.xarold.com/depiction.php?id=conditionalwifi4
+Name: ConditionalWiFi4 K
+
+Package: com.spark.DoubleTapLock
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Spark
+Installed-Size: 320
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.spark.doubletaplock_1.0.0_iphoneos-arm.deb
+Size: 28210
+MD5sum: 29327607e52ee343e9d44a70627e1bb6
+SHA1: 0203e4a5eb2ba078ed0042e5212f99f8f37cce3b
+SHA256: dd40f4e02de77739eab64872ba8403d4d150b1ffae33e6fd72b4905de73b3e2d
+Section: Tweaks
+Description: Double tap homescreen wallpaper to lock device
+Author: Spark
+Name: DoubleTapLock
+
+Package: com.ioscreatix.sugarcane
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: iOS Creatix
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: debs/com.ioscreatix.sugarcane_1.0.0_iphoneos-arm.deb
+Size: 5490
+MD5sum: 4a62025d6fa34a4e7bc9a4497303a70d
+SHA1: 3f256747f61034ed9af82b633173f1c3130e514b
+SHA256: 01f88237654818cef6fc0ebf29afdeed5f5a8fd4ce48eb34086ccfe092d3bde1
+Section: Tweaks
+Description: Get percentages for the sliders in the Control Center on iOS 11
+Author: iOS Creatix
+Name: SugarCane
+
+Package: com.jakeashacks.realcc
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: System Administrator
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: debs/com.jakeashacks.realcc_1.0.1_iphoneos-arm.deb
+Size: 3594
+MD5sum: 75ef293da44ea7c682f69aebfd53ff3f
+SHA1: 599b1c7d268fb1d01b27afb09050b973e70c61ec
+SHA256: 6ebdf32683f7d564503a8fef9949b88cc148a5432eac1632e75aea890268fdcb
+Section: Tweaks
+Description: Actually disable Wi-Fi from the iOS 11 CC
+Author: System Administrator
+Name: RealCC
 
