@@ -28,53 +28,6 @@ Description: 1、启用X手势，2、启用IPAD状态栏，3、长按划动不�
 Author: abxyap
 Name: HomeX
 
-
-Package: com.abxyap.HomeX
-Version: 1.0.2
-Architecture: iphoneos-arm
-Maintainer: abxyap<abxyap@163.com>
-Depends: mobilesubstrate, preferenceloader, firmware ( >= 12)
-Filename: debs/com.abxyap.homex_1.0.2.deb
-Size: 81800
-MD5sum: 9a12a41ae457b3ef314467b414c47956
-SHA1: d900517dd722cbe0ccd4a5b01ade9d6aa353b0ae
-SHA256: d91eb5018cfd3c5049a8de7cd2336ce19867ae88ef7effbc976992c9963890d9
-Section: Tweaks
-Description: 启用X手势和IPAD状态栏  Enable X gestures and IPAD status
-Author: abxyap
-Name: HomeX
-
-Package: com.abxyap.HomeX
-Version: 1.0.1
-Architecture: iphoneos-arm
-Maintainer: abxyap<abxyap@163.com>
-Depends: mobilesubstrate, preferenceloader, firmware ( >= 12)
-Filename: debs/com.abxyap.homex_1.0.1.deb
-Size: 80128
-MD5sum: bdf26da0895f1ef622541b0da1058808
-SHA1: 4188e4f7b6d0501bfa83c60a5f95c94197c9da6b
-SHA256: b756229afbd2d581c48f496f59174bdb7611b7866c9f7daac34d2cf764f71352
-Section: Tweaks
-Description: 启用X手势和IPAD状态栏  Enable X gestures and IPAD status
-Author: abxyap
-Name: HomeX
-
-Package: com.abxyap.HomeX
-Version: 1.0.0
-Architecture: iphoneos-arm
-Maintainer: abxyap<abxyap@163.com>
-Depends: mobilesubstrate
-Filename: debs/com.abxyap.homex_1.0.0.deb
-Size: 79728
-MD5sum: 2f212f79b818cbc6533d711fa564599a
-SHA1: f5d9d368d9bcadd3e8ed92f7df84cd9fac62354d
-SHA256: 92c502e868e3ff27d3a322ebc38178ef896b2c452576e10433a1010251be3a98
-Section: Tweaks
-Description: 启用X手势和IPAD状态栏  Enable X gestures and IPAD status
-Author: abxyap
-Name: HomeX
-
-
 Package: com.repo.xarold.com.conditionalwifi4
 Version: 1.0.0
 Architecture: iphoneos-arm
@@ -91,56 +44,6 @@ Author: ATWiiks
 Depiction: http://repo.xarold.com/depiction.php?id=conditionalwifi4
 Name: ConditionalWiFi4 K
 
-Package: com.repo.xarold.com.conditionalwifi4
-Version: 1.0.0
-Architecture: iphoneos-arm
-Maintainer: Xarold <contact@xarold.com>
-Depends: mobilesubstrate
-Filename: debs/com.repo.xarold.com.conditionalwifi4_1.0.0_iphoneos-arm.deb
-Size: 12784
-MD5sum: ce3a62e5283a73f5451fd125d39928f4
-SHA1: 4dc4bc35ca6c05347dd254c5125ce7c9e57e81bc
-SHA256: e89178492e3a5323cd73a5332f6f5c0bf987800ef359586545bb77cbf41f48b3
-Section: Tweaks
-Description: Restrict certain apps from accessing wifi on iOS 11
-Author: ATWiiks
-Depiction: http://repo.xarold.com/depiction.php?id=conditionalwifi4
-Name: ConditionalWiFi4 K
-
-
-
-Package: com.repo.xarold.com.conditionalwifi4
-Version: 1.0.0
-Architecture: iphoneos-arm
-Maintainer: Xarold <contact@xarold.com>
-Depends: mobilesubstrate
-Filename: debs/com.repo.xarold.com.conditionalwifi4_1.0.0_iphoneos-arm.deb
-Size: 12784
-MD5sum: ce3a62e5283a73f5451fd125d39928f4
-SHA1: 4dc4bc35ca6c05347dd254c5125ce7c9e57e81bc
-SHA256: e89178492e3a5323cd73a5332f6f5c0bf987800ef359586545bb77cbf41f48b3
-Section: Tweaks
-Description: Restrict certain apps from accessing wifi on iOS 11
-Author: ATWiiks
-Depiction: http://repo.xarold.com/depiction.php?id=conditionalwifi4
-Name: ConditionalWiFi4 K
-
-
-Package: com.repo.xarold.com.conditionalwifi4
-Version: 1.0.0
-Architecture: iphoneos-arm
-Maintainer: Xarold <contact@xarold.com>
-Depends: mobilesubstrate
-Filename: debs/com.repo.xarold.com.conditionalwifi4_1.0.0_iphoneos-arm.deb
-Size: 12784
-MD5sum: ce3a62e5283a73f5451fd125d39928f4
-SHA1: 4dc4bc35ca6c05347dd254c5125ce7c9e57e81bc
-SHA256: e89178492e3a5323cd73a5332f6f5c0bf987800ef359586545bb77cbf41f48b3
-Section: Tweaks
-Description: Restrict certain apps from accessing wifi on iOS 11
-Author: ATWiiks
-Depiction: http://repo.xarold.com/depiction.php?id=conditionalwifi4
-Name: ConditionalWiFi4 K
 
 Package: com.spark.DoubleTapLock
 Version: 1.0.0
@@ -174,19 +77,51 @@ Description: Get percentages for the sliders in the Control Center on iOS 11
 Author: iOS Creatix
 Name: SugarCane
 
-Package: com.jakeashacks.realcc
+
+Package: com.abxyap.HomeX
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: abxyap<abxyap@163.com>
+Depends: mobilesubstrate
+Filename: debs/com.abxyap.homex_1.0.0.deb
+Size: 95612
+MD5sum: 5e897fdeef3293f12510af04cb8756c5
+SHA1: 08e3b8b56d779ddd000c2ecb9c753d1cbed0e222
+SHA256: 76e459458749b50f41bca589ab345406e7979a9e604cfe8bcf7bda47ea89035a
+Section: Tweaks
+Description: 启用X手势和IPAD状态栏  Enable X gestures and IPAD status
+Author: abxyap
+Name: HomeX
+
+Package: com.abxyap.HomeX
 Version: 1.0.1
 Architecture: iphoneos-arm
-Maintainer: System Administrator
-Installed-Size: 72
-Depends: mobilesubstrate
-Filename: debs/com.jakeashacks.realcc_1.0.1_iphoneos-arm.deb
-Size: 3594
-MD5sum: 75ef293da44ea7c682f69aebfd53ff3f
-SHA1: 599b1c7d268fb1d01b27afb09050b973e70c61ec
-SHA256: 6ebdf32683f7d564503a8fef9949b88cc148a5432eac1632e75aea890268fdcb
+Maintainer: abxyap<abxyap@163.com>
+Depends: mobilesubstrate, preferenceloader, firmware ( >= 12)
+Filename: debs/com.abxyap.homex_1.0.1.deb
+Size: 96032
+MD5sum: 52b8089dbcf5ab5c35bd1350cf767540
+SHA1: 76808e36bc508b9f523dc1fa1fa7f8f728eda288
+SHA256: 5f0660254246812be62209fd6e8c4ebaef7a680f246818a7c04b63c92bda1236
 Section: Tweaks
-Description: Actually disable Wi-Fi from the iOS 11 CC
-Author: System Administrator
-Name: RealCC
+Description: 启用X手势和IPAD状态栏  Enable X gestures and IPAD status
+Author: abxyap
+Name: HomeX
+
+Package: com.abxyap.HomeX
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: abxyap<abxyap@163.com>
+Depends: mobilesubstrate, preferenceloader, firmware ( >= 12)
+Filename: debs/com.abxyap.homex_1.0.2.deb
+Size: 97724
+MD5sum: e8e116b3b7668b856f97cb0fe5c0b180
+SHA1: d2d4dfa115c1a1a998979b76bb5f787c173d4e11
+SHA256: 8b22e8432f224acf1dd53d8f8793c8280356c5d9967c7fbb58e0c579ff5abade
+Section: Tweaks
+Description: 启用X手势和IPAD状态栏  Enable X gestures and IPAD status
+Author: abxyap
+Name: HomeX
+
+
 
