@@ -45,39 +45,6 @@ Depiction: http://repo.xarold.com/depiction.php?id=conditionalwifi4
 Name: ConditionalWiFi4 K
 
 
-Package: com.spark.DoubleTapLock
-Version: 1.0.0
-Architecture: iphoneos-arm
-Maintainer: Spark
-Installed-Size: 320
-Depends: mobilesubstrate, preferenceloader
-Filename: debs/com.spark.doubletaplock_1.0.0_iphoneos-arm.deb
-Size: 28210
-MD5sum: 29327607e52ee343e9d44a70627e1bb6
-SHA1: 0203e4a5eb2ba078ed0042e5212f99f8f37cce3b
-SHA256: dd40f4e02de77739eab64872ba8403d4d150b1ffae33e6fd72b4905de73b3e2d
-Section: Tweaks
-Description: Double tap homescreen wallpaper to lock device
-Author: Spark
-Name: DoubleTapLock
-
-Package: com.ioscreatix.sugarcane
-Version: 1.0.0
-Architecture: iphoneos-arm
-Maintainer: iOS Creatix
-Installed-Size: 120
-Depends: mobilesubstrate
-Filename: debs/com.ioscreatix.sugarcane_1.0.0_iphoneos-arm.deb
-Size: 5490
-MD5sum: 4a62025d6fa34a4e7bc9a4497303a70d
-SHA1: 3f256747f61034ed9af82b633173f1c3130e514b
-SHA256: 01f88237654818cef6fc0ebf29afdeed5f5a8fd4ce48eb34086ccfe092d3bde1
-Section: Tweaks
-Description: Get percentages for the sliders in the Control Center on iOS 11
-Author: iOS Creatix
-Name: SugarCane
-
-
 Package: com.abxyap.HomeX
 Version: 1.0.0
 Architecture: iphoneos-arm
