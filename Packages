@@ -5,6 +5,9 @@ Maintainer: abxyap<abxyap@163.com>
 Depends: mobilesubstrate, preferenceloader, firmware ( >= 12)
 Filename: debs/com.abxyap.homex_2.0.1.deb
 Size: 92352
+MD5sum: 40c6be6ba66c19f56c38d815e0e2a74b
+SHA1: 5e094b2940aa4ac18208540ffc7f93f8b4f9258f
+SHA256: ea7905e4d1a591d7b2374ec3d0622b5ec5c623ab2eb7edef2b87d0cdca81100e
 Section: Tweaks
 Description: 1、启用X手势，2、启用IPAD状态栏，3、长按划动不触发手势（解决微信语音和视频进度条等问题），4、设置左中右手势习惯，5设置打开键盘时禁用X手势，6设置隐藏或显示HOME条，7、修复相机手势BUG，8、设置DOCK圆角，9、锁屏手电和相机。
 Author: abxyap
