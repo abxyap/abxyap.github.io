@@ -4,10 +4,10 @@ Architecture: iphoneos-arm
 Maintainer: abxyap<abxyap@163.com>
 Depends: mobilesubstrate, preferenceloader, firmware ( >= 12)
 Filename: debs/com.abxyap.homex_2.0.1.deb
-Size: 91936
-MD5sum: c85b594cf496ece4be31173000d2b7c8
-SHA1: 466713bb1fdc33789de0fe2ae8a9b521649026e3
-SHA256: 69efa09d65e3ff71e326495dfdbca5676f8b3ea21407cf5d28f99db872c49fca
+Size: 92352
+MD5sum: 40c6be6ba66c19f56c38d815e0e2a74b
+SHA1: 5e094b2940aa4ac18208540ffc7f93f8b4f9258f
+SHA256: ea7905e4d1a591d7b2374ec3d0622b5ec5c623ab2eb7edef2b87d0cdca81100e
 Section: Tweaks
 Description: 1、启用X手势，2、启用IPAD状态栏，3、长按划动不触发手势（解决微信语音和视频进度条等问题），4、设置左中右手势习惯，5设置打开键盘时禁用X手势，6设置隐藏或显示HOME条，7、修复相机手势BUG，8、设置DOCK圆角，9、锁屏手电和相机。
 Author: abxyap
@@ -44,17 +44,16 @@ Author: ATWiiks
 Depiction: http://repo.xarold.com/depiction.php?id=conditionalwifi4
 Name: ConditionalWiFi4 K
 
-
 Package: com.abxyap.HomeX
 Version: 1.0.0
 Architecture: iphoneos-arm
 Maintainer: abxyap<abxyap@163.com>
 Depends: mobilesubstrate
 Filename: debs/com.abxyap.homex_1.0.0.deb
-Size: 95612
-MD5sum: 5e897fdeef3293f12510af04cb8756c5
-SHA1: 08e3b8b56d779ddd000c2ecb9c753d1cbed0e222
-SHA256: 76e459458749b50f41bca589ab345406e7979a9e604cfe8bcf7bda47ea89035a
+Size: 95580
+MD5sum: 364087679f90a6c93b4a26ec23ccea35
+SHA1: b4852b84fe7c496d80067fd66ca57049b54c266f
+SHA256: da65757c19145673bc393fd8e3d69966ee6e23b1edc703d5b412e74dea399ed2
 Section: Tweaks
 Description: 启用X手势和IPAD状态栏  Enable X gestures and IPAD status
 Author: abxyap
@@ -66,10 +65,10 @@ Architecture: iphoneos-arm
 Maintainer: abxyap<abxyap@163.com>
 Depends: mobilesubstrate, preferenceloader, firmware ( >= 12)
 Filename: debs/com.abxyap.homex_1.0.1.deb
-Size: 96032
-MD5sum: 52b8089dbcf5ab5c35bd1350cf767540
-SHA1: 76808e36bc508b9f523dc1fa1fa7f8f728eda288
-SHA256: 5f0660254246812be62209fd6e8c4ebaef7a680f246818a7c04b63c92bda1236
+Size: 96036
+MD5sum: fc38235de9a1c99b747095e11d3f8a48
+SHA1: 2632e805dc65c06e16cfe727cce633c5a1c79c4e
+SHA256: ce926f9227aacc3cd1b52ba9a64a410f26909b6dfd36ca47e119d154c8f719b9
 Section: Tweaks
 Description: 启用X手势和IPAD状态栏  Enable X gestures and IPAD status
 Author: abxyap
@@ -81,14 +80,12 @@ Architecture: iphoneos-arm
 Maintainer: abxyap<abxyap@163.com>
 Depends: mobilesubstrate, preferenceloader, firmware ( >= 12)
 Filename: debs/com.abxyap.homex_1.0.2.deb
-Size: 97724
-MD5sum: e8e116b3b7668b856f97cb0fe5c0b180
-SHA1: d2d4dfa115c1a1a998979b76bb5f787c173d4e11
-SHA256: 8b22e8432f224acf1dd53d8f8793c8280356c5d9967c7fbb58e0c579ff5abade
+Size: 97716
+MD5sum: d9a4bb7f05b9e66a1c53f01f3c04040b
+SHA1: c7a164ca5d3b7f41738dc2950842980a75814869
+SHA256: 7ab4ed64765c510674ae042cc4c5a5952bd4dc5e6a61e20187172cd2a39cafd2
 Section: Tweaks
 Description: 启用X手势和IPAD状态栏  Enable X gestures and IPAD status
 Author: abxyap
 Name: HomeX
-
-
 
