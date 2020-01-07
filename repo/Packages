@@ -74,17 +74,19 @@ Description: 1、启用X手势，2、启用IPAD状态栏，3、长按划动不�
 Author: abxyap
 Name: HomeX
 
+
 Package: com.abxyap.HomeX
 Version: 2.0.2
 Architecture: iphoneos-arm
 Maintainer: abxyap<abxyap@163.com>
 Depends: mobilesubstrate, preferenceloader, firmware ( >= 12)
 Filename: debs/com.abxyap.homex_2.0.2.deb
-Size: 92612
-MD5sum: af7aae31ee27a162b818bc7223e8ae0c
-SHA1: e113090b513bcdbf287b57689452c12c6d1b73fc
-SHA256: f5645816f0dac664147b71f644b80ae974b515ca115d5c15974261f281075223
+Size: 92832
+MD5sum: 5c26c8f47b40a6759de0edb28b79606d
+SHA1: 76561a2a1f1fbe159ac4c5f7409763960cf07b01
+SHA256: ad8c15b7dd4f7e9ac92ad5f4ffb23918ab4fccab72b8a0618c17991acb6f9c8c
 Section: Tweaks
 Description: 1、启用X手势，2、启用IPAD状态栏，3、长按划动不触发手势（解决微信语音和视频进度条等问题），4、设置左中右手势习惯，5、设置打开键盘时禁用X手势，6、设置隐藏或显示HOME条，7、修复相机手势BUG，8、设置DOCK圆角，9、锁屏手电和相机。
 Author: abxyap
 Name: HomeX
+
