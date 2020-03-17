@@ -15,51 +15,6 @@ Depiction: http://repo.xarold.com/depiction.php?id=conditionalwifi4
 Name: ConditionalWiFi4 K
 
 Package: com.abxyap.HomeX
-Version: 1.0.0
-Architecture: iphoneos-arm
-Maintainer: abxyap<abxyap@163.com>
-Depends: mobilesubstrate
-Filename: debs/com.abxyap.homex_1.0.0.deb
-Size: 95580
-MD5sum: 364087679f90a6c93b4a26ec23ccea35
-SHA1: b4852b84fe7c496d80067fd66ca57049b54c266f
-SHA256: da65757c19145673bc393fd8e3d69966ee6e23b1edc703d5b412e74dea399ed2
-Section: Tweaks
-Description: 启用X手势和IPAD状态栏  Enable X gestures and IPAD status
-Author: abxyap
-Name: HomeX
-
-Package: com.abxyap.HomeX
-Version: 1.0.1
-Architecture: iphoneos-arm
-Maintainer: abxyap<abxyap@163.com>
-Depends: mobilesubstrate, preferenceloader, firmware ( >= 12)
-Filename: debs/com.abxyap.homex_1.0.1.deb
-Size: 96036
-MD5sum: fc38235de9a1c99b747095e11d3f8a48
-SHA1: 2632e805dc65c06e16cfe727cce633c5a1c79c4e
-SHA256: ce926f9227aacc3cd1b52ba9a64a410f26909b6dfd36ca47e119d154c8f719b9
-Section: Tweaks
-Description: 启用X手势和IPAD状态栏  Enable X gestures and IPAD status
-Author: abxyap
-Name: HomeX
-
-Package: com.abxyap.HomeX
-Version: 1.0.2
-Architecture: iphoneos-arm
-Maintainer: abxyap<abxyap@163.com>
-Depends: mobilesubstrate, preferenceloader, firmware ( >= 12)
-Filename: debs/com.abxyap.homex_1.0.2.deb
-Size: 97716
-MD5sum: d9a4bb7f05b9e66a1c53f01f3c04040b
-SHA1: c7a164ca5d3b7f41738dc2950842980a75814869
-SHA256: 7ab4ed64765c510674ae042cc4c5a5952bd4dc5e6a61e20187172cd2a39cafd2
-Section: Tweaks
-Description: 启用X手势和IPAD状态栏  Enable X gestures and IPAD status
-Author: abxyap
-Name: HomeX
-
-Package: com.abxyap.HomeX
 Version: 2.0.2
 Architecture: iphoneos-arm
 Maintainer: abxyap<abxyap@163.com>
