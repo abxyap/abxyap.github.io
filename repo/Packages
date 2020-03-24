@@ -15,17 +15,17 @@ Depiction: http://repo.xarold.com/depiction.php?id=conditionalwifi4
 Name: ConditionalWiFi4 K
 
 Package: com.abxyap.HomeX
-Version: 2.8
+Version: 2.9
 Architecture: iphoneos-arm
 Maintainer: abxyap<abxyap@163.com>
 Depends: mobilesubstrate, preferenceloader, firmware ( >= 12)
-Filename: debs/com.abxyap.homex_2.8.deb
-Size: 101360
-MD5sum: fd5ced647f57237f6ade5a318f59bd1e
-SHA1: 1521ceab2729ce7e8b5b66fc82eee770cfa01fe1
-SHA256: d67d5022d6f27d8d511aee4ac224d5a970ff58a276942c4a678ad92512eeb790
+Filename: debs/com.abxyap.homex_2.9.deb
+Size: 102264
+MD5sum: 9cbaf94100c9bd372d9c4d4a754858c8
+SHA1: b6c8f8d9bcda3d501d4958114e91ddfc6dc88bbb
+SHA256: 4ad285e67704e1c3fdc9f53ba77210d06119b658eb3d72119301a16428b7d660
 Section: Tweaks
-Description: 1、启用X手势，2、启用IPAD状态栏，3、重新设计"长按划动不触发手势"（完美解决微信语音和视频进度条等问题），4、设置左中右手势习惯，5、设置打开键盘时禁用X手势，6、设置隐藏或显示HOME条，7、修复相机手势BUG，8、设置DOCK圆角，9、锁屏手电和相机，10、游戏模式开关，10、支持checkra1n
+Description: 1、启用X手势，2、启用IPAD状态栏，3、重新设计"长按划动不触发手势"（完美解决微信语音和视频进度条等问题），4、设置左中右手势习惯，5、设置打开键盘时禁用X手势，6、设置隐藏或显示HOME条，7、修复相机手势BUG，8、设置DOCK圆角，9、锁屏手电和相机，10、游戏模式开关，11、支持checkra1n
 Author: abxyap
 Name: HomeX
 
