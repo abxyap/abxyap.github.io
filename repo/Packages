@@ -20,10 +20,10 @@ Architecture: iphoneos-arm
 Maintainer: abxyap<abxyap@163.com>
 Depends: mobilesubstrate, preferenceloader, firmware ( >= 12)
 Filename: debs/com.abxyap.homex_2.9.deb
-Size: 102252
-MD5sum: 5eef8e134411a83520dc7d978fe2f3eb
-SHA1: e6e051ff1b1356c1b5e3cd810821ef90d0947bfe
-SHA256: de41bd4af889a7650efdc9c9bb9470653dab2294a58827904319d08b264b90ef
+Size: 151972
+MD5sum: 687dc2d7aadc727d9571f0c44c8aa0bc
+SHA1: cc332c4fba9eaf5bbd953ce83ccfc4f763ec364d
+SHA256: eaa43f64cf61b4e7c5b2ee09e72ed8b42fd2dba54c841dbea48b0d5219fa2117
 Section: Tweaks
 Description: 1、启用X手势，2、启用IPAD状态栏，3、重新设计"长按划动不触发手势"（完美解决微信语音和视频进度条等问题），4、设置左中右手势习惯，5、设置打开键盘时禁用X手势，6、设置隐藏或显示HOME条，7、修复相机手势BUG，8、设置DOCK圆角，9、锁屏手电和相机，10、游戏模式开关，11、支持checkra1n
 Author: abxyap
