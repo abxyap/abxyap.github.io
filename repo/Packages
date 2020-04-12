@@ -5,7 +5,7 @@ Maintainer: Xarold <contact@xarold.com>
 Depends: mobilesubstrate
 Filename: debs/com.repo.xarold.com.conditionalwifi4_1.0.0_iphoneos-arm.deb
 Size: 12784
-MD5sum: ce3a62e5283a73f5451fd125d39928f4
+MD5sum: ce3a62e5283a73f5451fd125d39928f41
 SHA1: 4dc4bc35ca6c05347dd254c5125ce7c9e57e81bc
 SHA256: e89178492e3a5323cd73a5332f6f5c0bf987800ef359586545bb77cbf41f48b3
 Section: Tweaks
