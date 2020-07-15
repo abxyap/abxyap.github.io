@@ -11,7 +11,7 @@
                    <key>kind</key>
                    <string>software-package</string>
                    <key>url</key>
-                   <string>http://192.168.1.100/unc0ver_5.2.1-signed.ipa</string>
+                   <string>https://njc-download.weiyun.com/ftn_handler/42feeaafe36bd55b293ba0d9119c994e6113bed5938c95c63ef728ce7c9384b7716fb5dfee6b7141170663e0888aa08287c563ecf39a9d579e285aeef10d366c/unc0ver_5.2.1-signed.ipa?fname=unc0ver_5.2.1-signed.ipa&from=30013&version=3.3.3.3</string>
                </dict>
                <dict>
                    <key>kind</key>
