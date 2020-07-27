@@ -32,13 +32,13 @@
            </array><key>metadata</key>
            <dict>
                <key>bundle-identifier</key>
-               <string>com.rubbishflip.Bluetide</string>
+               <string>com.kailuan.impcloud</string>
                <key>bundle-version</key>
-               <string>5.2.1</string>
+               <string>1.0</string>
                <key>kind</key>
                <string>software</string>
                <key>subtitle</key>
-               <string>Unc0ver</string>
+               <string>odyssey</string>
                <key>title</key>
                <string>Unc0ver</string>
            </dict>
